@@ -12,12 +12,12 @@ html {
 }
 
 body {
-    color: #161616;
+    color: var(--text-color);
 
 }
 
 a {
-    color: #161616;
+    color:  var(--text-color);
 }
 
 .visually-hidde {
