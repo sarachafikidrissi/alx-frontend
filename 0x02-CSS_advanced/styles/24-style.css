@@ -129,7 +129,7 @@ a:active {
     color: var(--color-primary);
 }
 
-.card-services > a {
+.card-services a {
     display: block;
     padding: 2rem;
     background-color: var(--color-light-grey);
@@ -141,7 +141,7 @@ a:active {
     text-decoration-line: none;
 }
 
-.card-services > .card-title {
+.card-services .card-title {
     margin: 0;
 }
 
