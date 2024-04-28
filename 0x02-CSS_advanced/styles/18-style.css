@@ -98,7 +98,7 @@ a:active {
 }
 
 .nav .nav-item {
-    font-family: var(--font-family-title);
+    font-family: var(--nav-item-font-family);
     font-weight: var(--nav-item-font-weight);
     font-size: var(--nav-item-font-size);
     letter-spacing: var(--nav-item-letter-spacing);
